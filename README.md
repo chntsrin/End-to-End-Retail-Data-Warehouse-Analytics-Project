@@ -30,7 +30,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 The final output is an interactive **Power BI Dashboard** connected directly to the **Gold Layer** (Star Schema), allowing stakeholders to drill down into specific regions, products, and time periods.
 
-![Retail Performance Dashboard](dashboard/dashboard_preview.jpg) 
+![Retail Performance Dashboard](dashboard/dashboard_preview.png) 
 
 ### **Key Features & Insights:**
 - **Executive Summary (KPIs): **Revenue ($29.13M)**, **Gross Profit ($11.60M)**, and **GPM% (39.83%)**.
