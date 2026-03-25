@@ -25,7 +25,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 
----
 ## 📊 Dashboard
 
 The final output is an interactive **Power BI Dashboard** connected directly to the **Gold Layer** (Star Schema), allowing stakeholders to drill down into specific regions, products, and time periods.
