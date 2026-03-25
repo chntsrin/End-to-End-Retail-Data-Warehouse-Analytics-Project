@@ -37,5 +37,5 @@ The final output is an interactive **Power BI Dashboard** connected directly to 
 - **Financial Trends:** Dynamic line charts showing Revenue and Profit trends across Years.
 - **Product Intelligence:** Visualizing Top 10 performing products to optimize inventory and sales strategy.
 - **Geospatial Mapping:** Global sales distribution analysis to identify high-growth regions.
-- **Advanced DAX Measures:** Implementation of complex calculations for Cost of good sales (COGS) and Average Order Value (AOV).
+- **Advanced DAX Measures:** Implementation of complex calculations for Cost of good sold (COGS) and Average Order Value (AOV).
 
