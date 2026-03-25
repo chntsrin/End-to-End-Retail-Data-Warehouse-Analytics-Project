@@ -7,7 +7,7 @@ This project demonstrates a complete Data Analytics lifecycle, transforming raw 
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
-![Data Architecture](docs/Data_Architecture.png)
+![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw data from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer is about data cleansing, data transformation and standarization to prepare data for analysis.
