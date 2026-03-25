@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# End-to-End Retail Data Warehouse Analytics Project
 
 This project demonstrates a complete Data Analytics lifecycle, transforming raw retail transactional data into a **Data Warehouse** using **Medallion Architecture**. The final result is a professional **Power BI Dashboard** that empowers business stakeholders to make data-driven decisions regarding sales, profitability.
 
