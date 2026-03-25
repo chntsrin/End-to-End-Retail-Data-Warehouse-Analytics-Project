@@ -33,7 +33,7 @@ The final output is an interactive **Power BI Dashboard** connected directly to 
 ![Retail Performance Dashboard](dashboard/dashboard_preview.png) 
 
 ### **Key Features & Insights:**
-- **Executive Summary (KPIs): **Revenue ($29.13M)**, **Gross Profit ($11.60M)**, and **GPM% (39.83%)**.
+- **Executive Summary (KPIs):** **Revenue ($29.13M)**, **Gross Profit ($11.60M)**, and **GPM% (39.83%)**.
 - **Financial Trends:** Dynamic line charts showing Revenue and Profit trends across Years.
 - **Product Intelligence:** Visualizing Top 10 performing products to optimize inventory and sales strategy.
 - **Geospatial Mapping:** Global sales distribution analysis to identify high-growth regions.
